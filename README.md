@@ -1,4 +1,4 @@
-# ItaDev – Layout di Tastiera Italiano per Sviluppatori  
+# Layout di Tastiera Italiano per Sviluppatori  
 ![Repo Size](https://img.shields.io/github/repo-size/DarCas/keyboard-ita-dev)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
@@ -34,19 +34,19 @@ Simboli come `{}`, `[]`, `~`, `` ` ``, `@`, `#` o `\` richiedono combinazioni sc
 ## ⌨️ Mappa dei tasti aggiunti
 
 ### AltGr
-![AltGr layout](src/ItaDevAltGr.jpg)
+![AltGr layout](screenshots/ItaDevAltGr.jpgltGr.jpg)
 
 ### Shift + AltGr
-![Shift AltGr layout](src/ItaDevShftAltGr.jpg)
+![Shift AltGr layout](screenshots/ItaDevShftAltGr.jpgltGr.jpg)
 
 ---
 
 ## 📦 Installazione (Windows)
 
-1. Scarica l’ultima release dalla sezione **Releases** su GitHub  
-2. Avvia `setup.exe`  
-3. Riavvia Windows  
-4. Attiva il layout in:
+1. Scarica l'ultima versione del pacchetto `ItaDev_*.zip`  
+2. Avvia `setup.exe`
+3. Riavvia Windows
+4. Attiva il layout `Italiano - DarCas` in:
    **Impostazioni → Lingua → Tastiera → Aggiungi layout**
 
 Non sostituisce il layout italiano: lo affianca.
